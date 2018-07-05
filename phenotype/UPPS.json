@@ -1,0 +1,46 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Impulsive Behavior Scale\n\nReference:\nLynam, D.R., Smith, G.T., Whiteside, S.P., & Cyders, M.A. (2006). The UPPS-P: Assessing five personality pathways to impulsive behavior (Technical Report). West Lafayette: Purdue University.\n\nAssessing five impulsivity facets: Positive urgency, Negative urgency, Lack of premeditation, Lack of perseverance, and Sensation seeking.",
+          "TermURL": ""
+     },
+     "UPPS_Mean_NegUrg": {
+          "Description": "(negative) Urgency",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "UPPS_Mean_Premed": {
+          "Description": "(lack of) Premeditation",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "UPPS_Mean_Persev": {
+          "Description": "(lack of) Perseverance",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "UPPS_Mean_SS": {
+          "Description": "Sensation Seeking",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "UPPS_Mean_PosUrg": {
+          "Description": "positive Urgency",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

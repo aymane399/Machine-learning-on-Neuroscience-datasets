@@ -1,0 +1,182 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Beck Depressions Inventar-II\n\nReferences:\nBeck, A.T., et al. (1961). An inventory for measuring depression. Archives of general psychiatry, 4(6): 561-571.\nHautzinger, M., Bailer, M., Worall, H., & Keller, F. (1994). Beck-depressions-inventar (BDI). Bearbeitung der deutschen Ausgabe. Testhandbuch. Bern: Huber.\nHautzinger, M., Bailer, M., Worall, H., & Keller, F. (1995). BDI: Beck-Depressions-Inventar, Testhandbuch, 2. überarbeitete Auflage. Bern: Verlag Hans Huber.\n\nAssessing:\nthe severity of depressive symptoms over the past week.",
+          "TermURL": ""
+     },
+     "BDI_sum_1": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_2": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_3": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_4": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_5": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_6": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_7": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_8": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_9": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_10": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_11": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_12": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_13": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_14": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_15": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_16": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_17": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_18": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_19": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_20": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_sum_21": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BDI_summary_sum": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

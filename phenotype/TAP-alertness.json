@@ -1,0 +1,142 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Testbatterie zur Aufmerksamkeitsprüfung – reaction speed\n\nReferences:\nZimmermann, P., Fimm, B. (2012): Testbatterie zur Aufmerksamkeitsprüfung Version 2.3.. Psychologische Testsysteme\n\nTask description:\nParticipant has to press a button (as fast as possible) when a cross (visual stimuli) appears on screen. Two conditions (with or without audio signal before stimuli) existed. Four rounds, each containing 20 stimuli (1. and 4. without audio signal; 2. and 3. with audio signal). Before the beginning of the test a pretest was conducted.",
+          "TermURL": ""
+     },
+     "TAP_A_1": {
+          "Description": "reaction time medians for 1. round (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TAP_A_2": {
+          "Description": "reaction time medians for 2. round (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TAP_A_3": {
+          "Description": "reaction time medians for 3. round (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TAP_A_4": {
+          "Description": "reaction time medians for 4. round (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TAP_A_5": {
+          "Description": "mean reaction time (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_6": {
+          "Description": "median reaction time (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_7": {
+          "Description": "% (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_8": {
+          "Description": "standard deviations (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_9": {
+          "Description": "% (no signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_10": {
+          "Description": "mean reaction time (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_11": {
+          "Description": "median reaction time (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "ms",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_12": {
+          "Description": "% (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_13": {
+          "Description": "standard deviations (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_14": {
+          "Description": "% (signal)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_15": {
+          "Description": "phasic alertness",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_16": {
+          "Description": "% (phasic alertness)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_A_17": {
+          "Description": "comments",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     }
+}

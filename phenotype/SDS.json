@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "The Social Desirability Scale-17\n\nReferences:\nStöber, J. (1999). Die Soziale-Erwünschtheitsskala-17 (SES-17): Entwicklung und erste Befunde zur Reliabilität und Validität [The Social Desirability Scale-17 (SDS-17): Development and first findings on reliability and validity]. Diagnostica, 45(4):173-177. doi:10.1026//0012-1924.45.4.173\nStöber, J. (2001). The Social Desirability Scale-17 (SDS-17): Convergent validity, discriminantvalidity, and relationship with age. European Journal of Psychological Assessment, 17, 222-232. doi: 10.1027//1015-5759.17.3.222\n\nAssessing the tendency to present oneself in a social desirable way.",
+          "TermURL": "http://psycnet.apa.org/journals/jpa/17/3/222/"
+     },
+     "SDS_sum": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

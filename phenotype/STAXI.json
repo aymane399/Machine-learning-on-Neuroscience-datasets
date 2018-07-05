@@ -1,0 +1,38 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "State-Trait Anger Expression Inventor\n\nReferences:\nSchwenkmezger, P., Hodapp, V. & Spielberger, C. D. (1992). Das State- Trait- Ärgerausdrucks- Inventar STAXI. Huber.\nSpielberger, C. D. (1988). State-Trait Anger Expression Inventory (STAXI). Research edition. Odessa, FL: Psychological Assessment Resources.\nFuqua, D. R., Leonard, E., Masters, M. A., Smith, R. J., Campbell, J. L., & Fischer, P. C. (1991). A structural analysis of the state-trait anger expression inventory. Educational and Psychological Measurement, 51(2), 439-446.\n\nMeasures 'anger as a situational emotional response (state) and as a predispositional quality (trait)' (Fuqua et al., 1991, page 439)",
+          "TermURL": ""
+     },
+     "STAXI_anger_trait": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "STAXI_anger_inward": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "STAXI_anger_outward": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "STAXI_anger_control": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

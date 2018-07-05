@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Attention Control Scale\n\nReference:\nDerryberry, D., Reed, M.A. (2002) Anxiety-related attentional biases and their regulation by attentional control. Journal of Abnormal Psychology, 111(2):225–236.",
+          "TermURL": "http://dx.doi.org/10.1037/0021-843X.111.2.225"
+     },
+     "ACS_sum": {
+          "Description": "Assessing 'the role of self-reported attentional control in regulating attentional biases...' (Derryberry and Reed, 2002, page 225)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

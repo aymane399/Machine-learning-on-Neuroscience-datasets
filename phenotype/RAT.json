@@ -1,0 +1,30 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Remote Associates Task\n\nReference:\nLandmann, N., Kuhn, M., Piosczyk, H., Feige, B., Riemann, D., & Nissen, C. (2014). Entwicklung von 130 deutschsprachigen Compound Remote Associate (CRA)-Worträtseln zur Untersuchung kreativer Prozesse im deutschen Sprachraum. Psychologische Rundschau.\n\nDescription of task:\n20 word triplets were presented (counterbalanced in sets of 10) and a unifying fourth word, for each of the triplets, had to be written down by the participant. The task was timed: 30 seconds thinking time and 10 seconds answering time, for each of the triplets.",
+          "TermURL": ""
+     },
+     "RAT_CORRECT_NR": {
+          "Description": "Number correct responses",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "RAT_PERCENT": {
+          "Description": "Percent correct responses",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "RAT_Rtmeanforcorrectanswers": {
+          "Description": "Mean reaction time for correct answers",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

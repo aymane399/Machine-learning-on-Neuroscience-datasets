@@ -1,0 +1,102 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Testbatterie zur Aufmerksamkeitsprüfung\n\nAssessing working memory capacity.\n\nReference:\nZimmermann, P., Fimm, B. (2012): Testbatterie zur Aufmerksamkeitsprüfung Version 2.3.. Psychologische Testsysteme\n\nTask description:\nNumbers from 1-9 appear on screen (serially). Participant has to press a button (as fast as possible) when the number on screen is equal to the second last number. Before the beginning of the test a pretest was conducted.",
+          "TermURL": ""
+     },
+     "TAP_WM_1": {
+          "Description": "mean reaction time",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_2": {
+          "Description": "reaction time median",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_3": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_4": {
+          "Description": "standard deviations",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_5": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_6": {
+          "Description": "how many correct matches",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_7": {
+          "Description": "how many incorrect matches (errors)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_8": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_9": {
+          "Description": "how many missed matches (omissions)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_10": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_11": {
+          "Description": "outliers",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_WM_12": {
+          "Description": "comments",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

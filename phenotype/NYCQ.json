@@ -1,0 +1,686 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "New York Cognition Questionnaire\n\nReference:\nGorgolewski, K.J., Lurie, D., Urchs, S., Kipping, J.A.,  Craddock, R.C.,  Milham, M.P. , Margulies, D.S., Smallwood, J. (2014) A Correspondence between Individual Differences in the Brain's Intrinsic Functional Architecture and the Content and Form of Self-Generated Thoughts. PloS One, 9(5): e97176.  doi: 10.1371/journal.pone.0097176\n\nAssessing 'the content and form of an individual's experiences during the acquisition of resting-state fMRI data' (Gorgolewski et al., 2014).",
+          "TermURL": "http://journals.plos.org/plosone/article/file?type=supplementary&id=info:doi/10.1371/journal.pone.0097176.s001"
+     },
+     "NYCQ_post-ses-01_1": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_2": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_3": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_4": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_5": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_6": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_7": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_8": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_9": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_10": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_11": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_12": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_13": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_14": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_15": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_16": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_17": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_18": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_19": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_20": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_21": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_22": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_23": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_24": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_25": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_26": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_27": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_28": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_29": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_30": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-01_31": {
+          "Description": "This questionnaire was recorded immediately after the fist MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_1": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_2": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_3": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_4": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_5": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_6": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_7": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_8": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_9": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_10": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_11": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_12": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_13": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_14": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_15": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_16": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_17": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_18": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_19": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_20": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_21": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_22": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_23": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_24": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_25": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_26": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_27": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_28": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_29": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_30": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-ses-02_31": {
+          "Description": "This questionnaire was recorded immediately after the second MRI session.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_1": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_2": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_3": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_4": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_5": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_6": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_7": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_8": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_9": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_10": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_11": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_12": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_13": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_14": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_15": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_16": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_17": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_18": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_19": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_20": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_21": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_22": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "NYCQ_post-tasks_23": {
+          "Description": "This questionnaire was recorded after the Emotional task switching (ETS) and the Conjunctive continuous performance task (CCPT). The original questionnaire has two sections, but here we have only used the first section (i.e., items 1-23 → content of self-generated thoughts).",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     }
+}

@@ -1,0 +1,46 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Wortschatztest – vocabulary test\n\nReference:\nSchmidt, K.-H., Metzler, P. (1992): Wortschatztest (WST). Beltz Test GmbH\n\nAssessing verbal intelligence through a vocabulary test.\n\nTask description:\nTotal of 42 word sets. Each set has one target word and five distractors. Participants have to identify the one target word. No time limit for the completion of the task.",
+          "TermURL": ""
+     },
+     "WST_1": {
+          "Description": "WST raw data; how many real words did the participant correctly indicated.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "WST_2": {
+          "Description": "z-scale",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "WST_3": {
+          "Description": "IQ-scale",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "WST_4": {
+          "Description": "Z-scale",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "WST_5": {
+          "Description": "comments",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

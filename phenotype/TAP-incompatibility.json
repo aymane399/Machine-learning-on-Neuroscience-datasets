@@ -1,0 +1,230 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Testbatterie zur Aufmerksamkeitsprüfung - interference tendency\n\nReference:\nZimmermann, P., Fimm, B. (2012): Testbatterie zur Aufmerksamkeitsprüfung Version 2.3.. Psychologische Testsysteme\n\nAssessing the interference tendency by stimulus-reaction incompatibility (Simon-Effect).\n\nTask description:\nAn arrow appears on the left or the right side of the screen (there is an audio signal before each stimulus). Participant has to press, as fast as possible, the left or the right button according to the direction of the arrow (NOT according to side of appearance). The right button is in the right hand of the participant and the left one on the left hand of the participant. Compatible and incompatible stimuli (each 30 stimuli). Before the beginning of the test a pretest was conducted.",
+          "TermURL": ""
+     },
+     "TAP_I_1": {
+          "Description": "mean time for compatible stimuli",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_2": {
+          "Description": "median time for compatible stimuli",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_3": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_4": {
+          "Description": "standard deviations",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_5": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_6": {
+          "Description": "how many errors did participant make during compatible stimuli presentation",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_7": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_8": {
+          "Description": "mean time for incompatible stimuli",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_9": {
+          "Description": "median time for incompatible stimuli",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_10": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_11": {
+          "Description": "standard deviations",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_12": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_13": {
+          "Description": "how many errors did participant make during incompatible stimuli presentation",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_14": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_15": {
+          "Description": "mean time for whole stimuli presentation",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_16": {
+          "Description": "median time for whole stimuli presentation",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_17": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_18": {
+          "Description": "standard deviations",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_19": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_20": {
+          "Description": "how many errors did participant make during whole stimuli presentation",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_21": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_22": {
+          "Description": "F-value_visual_field",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_23": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_24": {
+          "Description": "F-value_hand",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_25": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_26": {
+          "Description": "F-value_visual_field_x_hand",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_27": {
+          "Description": "%",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TAP_I_28": {
+          "Description": "comments",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     }
+}

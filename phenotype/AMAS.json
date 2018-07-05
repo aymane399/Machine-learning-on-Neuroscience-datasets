@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Abbreviated Math Anxiety Scale\n\nReference:\nHopko, D.R., Mahadevan, R., Bare, R.L., Hunt, M.K. (2003) The Abbreviated Math Anxiety Scale (AMAS): construction, validity, and reliability. Assessment, 10(2): 178-182. doi: 10.1177/1073191103010002008",
+          "TermURL": "https://www.ncbi.nlm.nih.gov/pubmed/12801189"
+     },
+     "AMAS_sum": {
+          "Description": "Assessing 'mathematics anxiety' (Hopko et al., 2003, page 178)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

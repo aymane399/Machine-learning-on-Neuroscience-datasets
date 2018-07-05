@@ -1,0 +1,38 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Involuntary Musical Imagery Scale\n\nReference:\nFloridou, G.A., Williamson, V.J., Stewart, L., Müllensiefen, D. (2015). The Involuntary Musical Imagery Scale (IMIS). Psychomusicology: Music, Mind, and Brain. 25(1): 28-36.\n\nAssessing 'individual differences in involuntary musical imagery' (Floridou et al., 2015, page 1).",
+          "TermURL": "http://psycnet.apa.org/journals/pmu/25/1/28/\nhttp://www.gold.ac.uk/music-mind-brain/gold-msi/download/"
+     },
+     "IMIS_NegVal_sum": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "IMIS_Help_sum": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "IMIS_Movement_sum": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "IMIS_PersRef_sum": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

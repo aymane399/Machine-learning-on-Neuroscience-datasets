@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Tuckman Procrastination Scale\n\nReference:\nStöber, J. (1995). Tuckman Procrastination Scale-Deutsch (TPS-D). Unveröffentliches Manuskript. Freie Universität Berlin, Institut für Psychologie\nTuckman, B. W. (1991). The development and concurrent validity of the procrastination scale. Educational and Psychological Measurement, 51(2): 473-480. doi: 10.1177/0013164491512022",
+          "TermURL": "http://journals.sagepub.com/doi/abs/10.1177/0013164491512022"
+     },
+     "TPS_D_sum": {
+          "Description": "Procrastination tendencies",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

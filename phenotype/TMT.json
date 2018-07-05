@@ -1,0 +1,70 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Trail Making Test – visual/spatial search & reaction change\n\nReference:\nReitan, R.M. (1992): Trail Making Test. Reitan Neuropsychology Laboratory\n\nAssesses visual/spatial search & reaction change.\n\nTasks (paper & pen version (DIN-A-4)):\nTMT_A: only numbers (1-25): Participant has to connect numbers as fast as possible in an ascending order.\nTMT_B: numbers and letters (1-13, A-L): Participant has to connect numbers and letters in an alternating and ascending order as fast as possible.",
+          "TermURL": ""
+     },
+     "TMT_1": {
+          "Description": "time it took to connect numbers (seconds. milliseconds)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TMT_2": {
+          "Description": "brain functions based on performance for Trail A (Reitan & Wolfson, 1988)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TMT_3": {
+          "Description": "how many errors did the pp. make",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TMT_4": {
+          "Description": "comments",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TMT_5": {
+          "Description": "time it took to connect numbers and letters (seconds. milliseconds)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TMT_6": {
+          "Description": "brain functions based on performance for Trail B (Reitan & Wolfson, 1988)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     },
+     "TMT_7": {
+          "Description": "how many errors did the pp. make",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TMT_8": {
+          "Description": "comments",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": false,
+          "TermURL": ""
+     }
+}

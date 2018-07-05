@@ -1,0 +1,38 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Varieties of Inner Speech Questionnaire\n\nReference:\nMcCarthy-Jones, S., Fernyhough, C. (2011). The varieties of inner speech: links between quality of inner speech and psychopathological variables in a sample of young adults. Consciousness and cognition, 20(4), 1586-1593. doi:10.1016/j.concog.2011.08.005\n\nAssessing facets of inner speech: Dialogic inner speech, The voice of others in the inner speech, Condensed inner speech, and Evaluative/Motivational inner speech.",
+          "TermURL": "http://www.sciencedirect.com/science/article/pii/S1053810011001954"
+     },
+     "VIS_dialog_sum": {
+          "Description": "Dialogic inner speech",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "VIS_condensed_sum": {
+          "Description": "Condensed inner speech",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "VIS_other_sum": {
+          "Description": "The voice of others in the inner speech",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "VIS_eval_sum": {
+          "Description": "Evaluative/Motivational inner speech",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

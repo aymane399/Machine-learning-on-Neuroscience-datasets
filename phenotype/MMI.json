@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Multimedia Multitasking Index\n\nReference:\nOphir, E., Nass,C., Wagner, A.D. (2009) Cognitive control in media multi-taskers. Proceedings of the National Academy of Science of the United Stated of America, 106(37): 15583–15587. doi: 10.1073/pnas.0903620106",
+          "TermURL": "http://www.pnas.org/content/106/37/15583"
+     },
+     "MMI_score": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

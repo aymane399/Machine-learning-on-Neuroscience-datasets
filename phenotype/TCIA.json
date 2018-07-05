@@ -1,0 +1,30 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Test of Creative Imagery Abilities\n\nReference:\nJankowska, D. M., & Karwowski, M. (2015). Measuring creative imagery abilities. Frontiers in psychology, 6, 1591.\n\nAssesses creative imagery abilities.\n\nTask:\nCompleting 7 ambiguous figures in a creative way. No time limit to complete the task. Five raters scored uniqueness, originality, transformativeness.",
+          "TermURL": ""
+     },
+     "TCIA_Vividness_mean": {
+          "Description": "Uniqueness",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TCIA_Orig_mean": {
+          "Description": "Originality",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "TCIA_Transform_mean": {
+          "Description": "Transformativeness",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

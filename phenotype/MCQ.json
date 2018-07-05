@@ -1,0 +1,46 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Metacognition Questionnaire\n\nReference:\nWells, A., Cartwright-Hatton, S. (2004). A short form of the metacognitions questionnaire: Properties of the MCQ-30. Behaviour research and therapy,42(4), 385-396.\n\nAssessing '... individual differences in a selection of metacognitive beliefs, judgments and monitoring tendencies considered important in the metacognitive model of psychological disorders' (Wells and Cartwright-Hatton, 2004; page 385).",
+          "TermURL": ""
+     },
+     "MCQ_lack_of_cogn_conf_mean": {
+          "Description": "cognitive confidence (assessing confidence in attention and memory)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "MCQ_pos_bel_about_worry_mean": {
+          "Description": "positive beliefs about worry",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "MCQ_cogn_self-consc_mean": {
+          "Description": "cognitive self-consciousness (the tendency to focus attention on thought processes)",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "MCQ_neg_bel_about_uncontr_danger_mean": {
+          "Description": "negative beliefs about thoughts concerning uncontrollability and danger",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "MCQ_need_contr_thoughts_mean": {
+          "Description": "negative beliefs concerning the consequences of not controlling thoughts",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

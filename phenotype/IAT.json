@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Internet Addiction Test\n\nReference:\nYoung, K.S. (1998). Internet Addiction: The Emergence of a New Clinical Disorder. CyberPsychology & Behavior, 1(3): 237-244. doi:10.1089/cpb.1998.1.237",
+          "TermURL": "http://online.liebertpub.com/doi/abs/10.1089/cpb.1998.1.237"
+     },
+     "IAT_sum": {
+          "Description": "Assessing internet addiction.",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

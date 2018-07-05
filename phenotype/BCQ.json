@@ -1,0 +1,30 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Body Cognition Questionnaire\n\nReference:\nMiller, L. C., Murphy, R., & Buss, A. H. (1981). Consciousness of Body: Private and Public. Journal of Personality and Social Psychology, 41(2), 397.\n\nAssessing:\n'... self-report measure of the private and public aspects of the body in neutral (nonaffective) state' (Miller et al., 1981, page 398)",
+          "TermURL": "http://psycnet.apa.org/journals/psp/41/2/397/"
+     },
+     "BCQ_private_body_mean": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BCQ_public_body_mean": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "BCQ_body_competence_mean": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

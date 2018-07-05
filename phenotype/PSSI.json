@@ -1,0 +1,118 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Personality Style and Disorder Inventory\n\nReference:\nKuhl, J., Kazén M. (2009). Persönlichkeits-Stil-und-Störungs-Inventar (PSSI). Manual (2., überarbeitete und neu normierte Auflage). Göttingen: Hogrefe.\n\nAssessing 14 personality styles that are conceptualised as non-pathologic, sub-clinical equivalents of personality disorders as described in diagnostic manuals such as the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV; American Psychiatric Association, 2000) and the International Classification of Diseases ICD-10 (World Health Organization, 2010).",
+          "TermURL": ""
+     },
+     "PSSI_PN": {
+          "Description": "Self-willed/paranoid",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_SZ": {
+          "Description": "Reserved/schizoid",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_ST": {
+          "Description": "Suspecting/schizotypic",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_BL": {
+          "Description": "Spontaneous/borderline",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_HI": {
+          "Description": "Endearing/histrionic",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_NA": {
+          "Description": "Ambitious/narcissistic",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_SU": {
+          "Description": "Self-critical/insecure",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_AB": {
+          "Description": "Loyal/dependent",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_ZW": {
+          "Description": "Careful/compulsive",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_NT": {
+          "Description": "Critical/negativistic",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_DP": {
+          "Description": "Quiet/depressive",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_SL": {
+          "Description": "Helpful/selfless",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_RH": {
+          "Description": "Optimistic/rhapsodic",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     },
+     "PSSI_AS": {
+          "Description": "Autonomous/antisocial",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

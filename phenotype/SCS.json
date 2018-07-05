@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Brief Self-Control Scale\n\nReferences:\nBertrams, A., Dickhäuser, O. (2009). Messung dispositioneller Selbstkontroll-Kapazität: Eine deutsche Adaptation der Kurzform der Self-Control Scale (SCS-K-D). Diagnostica, 55 (1), 2-10. doi:10.1026/0012-1924.55.1.2\nTangney, J.P., Baumeister, R.F., Boone ,A.L. (2004). High self-control predicts good adjustment, less pathology, better grades, and interpersonal success. Journal of Personality, 72(2),271-324. doi:10.1111/j.0022-3506.2004.00263.x\n\nAssessing capacity for self-control.",
+          "TermURL": "http://dx.doi.org/10.1111/j.0022-3506.2004.00263.x"
+     },
+     "SCS_SelfCtrl_sum": {
+          "Description": "Self control",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}

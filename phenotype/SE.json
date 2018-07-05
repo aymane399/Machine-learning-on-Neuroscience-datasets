@@ -1,0 +1,14 @@
+{
+     "MeasurementToolMetadata": {
+          "Description": "Self-Esteem Scale\n\nReference:\nO’malley, P.M., Bachman, J.G. (1979) Self-esteem & education: Sex and cohort comparisons among high school seniors. Journal of Personality and Social Psychology, 37(7): 1153 – 1159.\n\nAssessing global self-worth by investigating positive and negative feelings about the self.",
+          "TermURL": "http://dx.doi.org/10.1037/0022-3514.37.7.1153"
+     },
+     "SE_Mean_SelfEst": {
+          "Description": "",
+          "Levels": "",
+          "LongName": "",
+          "Units": "",
+          "Derivative": true,
+          "TermURL": ""
+     }
+}
