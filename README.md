@@ -8,4 +8,7 @@ We used panda dataframes to extract the two gold MSI (The Goldsmiths Musical Sop
   Feature vectors are correlations between the "activation" of different brain voxels according according to BOLD(Blood-oxygen-level dependent) imaging using fMRI data of all the subjects.
   Python module Nilearn allows to manipulate fMRI data and visualization of different Regions of Interest. We used it to get the correlations graphs that served as feature vectors.
   
+For copyright issues the original data of the subjects's fMRI and scores are not available.
+
+  
   
