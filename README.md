@@ -10,6 +10,11 @@ We used panda dataframes to extract the two gold MSI (The Goldsmiths Musical Sop
   
 For copyright issues the original data of the subjects's fMRI and scores are not available.
 
+## Using PLSR to train the model:
+Here we use PLSR model ( see more about it on Sklearn) to reduce dimension by keeping the features that explain the best the variance in the scores, a selection of K-best features is done before.
+And we used Leave N groups out methode for cross validation.
 
-  
+We also visualize the most relevant brain connections for each feature usign NiLearn functions. ( See pictures below)
+
+![Alt text](brain.png?raw=true "lowest pval")
   
