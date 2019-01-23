@@ -16,5 +16,6 @@ And we used Leave N groups out methode for cross validation.
 
 We also visualize the most relevant brain connections for each feature usign NiLearn functions. ( See pictures below)
 
-![Alt text](brain.png?raw=true "lowest pval")
+![Alt text](active.png?raw=true "lowest pval")
+![Alt text](training.png?raw=true "lowest pval")
   
