@@ -10,9 +10,6 @@ We used panda dataframes to extract the two gold MSI (The Goldsmiths Musical Sop
   
 For copyright issues the original data of the subjects's fMRI and scores are not available.
 
-<<<<<<< HEAD
-=======
-  
->>>>>>> 56f59e5f914f46e6b2aee2ed9e2cd4af3d67b484
+
   
   
