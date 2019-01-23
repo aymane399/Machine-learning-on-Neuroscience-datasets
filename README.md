@@ -14,7 +14,7 @@ For copyright issues the original data of the subjects's fMRI and scores are not
 Here we use PLSR model ( see more about it on Sklearn) to reduce dimension by keeping the features that explain the best the variance in the scores, a selection of K-best features is done before.
 And we used Leave N groups out methode for cross validation.
 
-We also visualize the most relevant brain connections for each feature usign NiLearn functions. ( See pictures below)
+We also visualize the most relevant brain connections for each feature usign Nilearn functions. ( See pictures below)
 
 ![Alt text](active.png?raw=true "lowest pval")
 ![Alt text](training.png?raw=true "lowest pval")
